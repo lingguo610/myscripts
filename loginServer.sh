@@ -40,7 +40,7 @@ echo $sshHostIp
 
 hostIP=$1
 hostUser="root"
-hostPassWD="Bingo@1993"
+hostPassWD="youpass"
 
 auto_login_ssh $hostPassWD $hostUser"@"$hostIP
 
