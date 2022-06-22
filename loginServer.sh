@@ -16,7 +16,7 @@ function auto_login_ssh(){
 #declare -a hostInfoDict
 
 #hostInfoDict["127"]="127.0.0.1 username passwd"
-#hostInfoDict["3081"]="10.161.30.81 root Bingo@1993"
+#hostInfoDict["3081"]="10.161.30.81 root xxx"
     
 
 echo $#
